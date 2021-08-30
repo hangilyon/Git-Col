@@ -15,7 +15,7 @@ public class Main {
 			switch(num) {
 				case 1 : break;
 				case 2 : break;
-				case 3 : log.display(); break;
+				case 3 : log.disp(); break;
 				case 4 : break;
 				case 5 : break;
 			}
